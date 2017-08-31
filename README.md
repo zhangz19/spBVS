@@ -15,4 +15,4 @@ Please see [Introduction](http://stt.msu.edu/~zhangz19/spBVS.html).
   
   4. Herman, M., Nejadhashemi, A. P., Daneshvar, F., Abouali, M., Ross, D. M., Woznicki, S. A. and Zhang, Z. (2016). Optimization of bioenergy crop selection and placement based on a stream health indicator using an evolutionary algorithm. _Journal of Environmental Management_. 181, 413-424.
   
-  5. Li, Y., Bence, J. R. and Zhang, Z. (2016). Variable selection for the determination of factors related to Lake Whitefish net movement distance in Lake Huron. To submit soon.
+  5. Li, Y., Bence, J. R., Zhang, Z. and Ebener, M. P. (2017). Why do lake whitefish move long distances in Lake Huron? Bayesian variable selections of factors explaining fish movement distance. _Fisheries Research_. 195, 169-179. [URL](http://www.sciencedirect.com/science/article/pii/S0165783617301960)
