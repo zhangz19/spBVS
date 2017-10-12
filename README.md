@@ -2,7 +2,7 @@
 Bayesian variable selection for spatial areal data with Conditional Autoregressive (CAR) model. 
 Please see [Introduction](http://stt.msu.edu/~zhangz19/spBVS.html).
 
-* The program is developed for modeling spatial continuous/count data with Conditional Autoregressive (CAR) model on errors/random effects. The program allow flexible choices of L_0 and L_1/L_2 penalties. For Poisson model, it implements the truncated MALA for efficiently block-sampling the high-dimensional latent parameters and takes advantage of the sparse precision matrix under CAR model. It can reduce to handeling general Bayesian variable selectoin for non-spatial data.
+* The program is developed for modeling spatial continuous/count data with Conditional Autoregressive (CAR) model on errors/random effects. The program allow flexible choices of L_0 and L_1/L_2 penalties. For Poisson model, it implements the truncated Metropolis-Adjusted Langevin Algorithm (tMALA) for efficiently block-sampling the high-dimensional latent parameters and takes advantage of the sparse precision matrix under CAR model. It can reduce to handeling general Bayesian variable selectoin for non-spatial data.
 
 * Please contact the authors if there are any questions or implementation issues: Zhen Zhang, zhangquake@gmail.com (Date coded: 2013-11-19)
 
